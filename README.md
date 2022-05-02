@@ -1,1 +1,3 @@
-# 10th-Assignment
+# Angular
+
+Change the previous UI application into a single page application using Angular. 
