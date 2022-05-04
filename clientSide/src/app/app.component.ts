@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Assignment 10';
+  title = '10th-Assignment';
   showTable:boolean = false;
 
   onClick()
